@@ -5,52 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="14a2ffa8-e95b-402f-b4e4-a5f7e4801e72" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Start.bat" beforeDir="false" afterPath="$PROJECT_DIR$/Start.bat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cechy_memow.csv" beforeDir="false" afterPath="$PROJECT_DIR$/cechy_memow.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ekstrakcja_cech.py" beforeDir="false" afterPath="$PROJECT_DIR$/ekstrakcja_cech.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/memy/00ece4437c.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memy/08e5130872.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memy/0af7e90d01.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memy/0cd7b10083.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memy/0f8047a54b.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memy/27b7bceb32.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memy/27df90bf52.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memy/293dc1ba84.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memy/2d5d3eb674.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memy/3c29b3e7ed.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memy/3cd6a7e751.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memy/3dceca165f.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memy/3eaaf8b387.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memy/3eaffb0753.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memy/4b0a96d971.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memy/5d30f1623c.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memy/5e43d96fe1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memy/6824b76e89.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memy/6d02d9d66f.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memy/6d2fb18e7f.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memy/7a62cfb411.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memy/7ac32643e0.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memy/7e5f7ea289.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memy/90add29973.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memy/95e9b3736b.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memy/96af307ce5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memy/9b47c25ebd.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memy/9f0d46cbac.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memy/b2f7895e65.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memy/b649738b4f.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memy/c28643454b.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memy/c5d579238b.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memy/cc762a7122.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memy/cd59143723.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memy/da8e8672ff.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memy/db38659d6c.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memy/e3037ce6b2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memy/ed7e7fcdb0.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memy/fb1bcb771f.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memy/fd5f8c6e02.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sprawdz_nowe.py" beforeDir="false" afterPath="$PROJECT_DIR$/sprawdz_nowe.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,43 +48,43 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Batch.Start.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Notification.DisplayName-DoNotAsk-Project Loading Error": "Could not load project",
-    "Notification.DisplayName-DoNotAsk-WindowsDefender": "Microsoft Defender may affect IDE",
-    "Notification.DisplayName-DoNotAsk-grazie.missing.language": "Proofreader is Missing Languages",
-    "Notification.DoNotAsk-Project Loading Error": "true",
-    "Notification.DoNotAsk-WindowsDefender": "true",
-    "Notification.DoNotAsk-grazie.missing.language": "true",
-    "Python.Digital Asset Management.executor": "Run",
-    "Python.akstracja_cech.executor": "Run",
-    "Python.app.executor": "Run",
-    "Python.bezpieczne_nazwy.executor": "Run",
-    "Python.czytaj_tekst.executor": "Run",
-    "Python.ekstrakcja_cech.executor": "Run",
-    "Python.generuj_gradient.executor": "Run",
-    "Python.generuj_mozaike.executor": "Run",
-    "Python.napraw_zbiór.executor": "Run",
-    "Python.pokazanie_bazy.executor": "Run",
-    "Python.sprawdz_nowe.executor": "Run",
-    "RunOnceActivity.MCP Project settings loaded": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "ai.playground.ignore.import.keys.banner.in.settings": "true",
-    "git-widget-placeholder": "main",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Batch.Start.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Notification.DisplayName-DoNotAsk-Project Loading Error&quot;: &quot;Could not load project&quot;,
+    &quot;Notification.DisplayName-DoNotAsk-WindowsDefender&quot;: &quot;Microsoft Defender may affect IDE&quot;,
+    &quot;Notification.DisplayName-DoNotAsk-grazie.missing.language&quot;: &quot;Proofreader is Missing Languages&quot;,
+    &quot;Notification.DoNotAsk-Project Loading Error&quot;: &quot;true&quot;,
+    &quot;Notification.DoNotAsk-WindowsDefender&quot;: &quot;true&quot;,
+    &quot;Notification.DoNotAsk-grazie.missing.language&quot;: &quot;true&quot;,
+    &quot;Python.Digital Asset Management.executor&quot;: &quot;Run&quot;,
+    &quot;Python.akstracja_cech.executor&quot;: &quot;Run&quot;,
+    &quot;Python.app.executor&quot;: &quot;Run&quot;,
+    &quot;Python.bezpieczne_nazwy.executor&quot;: &quot;Run&quot;,
+    &quot;Python.czytaj_tekst.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ekstrakcja_cech.executor&quot;: &quot;Run&quot;,
+    &quot;Python.generuj_gradient.executor&quot;: &quot;Run&quot;,
+    &quot;Python.generuj_mozaike.executor&quot;: &quot;Run&quot;,
+    &quot;Python.napraw_zbiór.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pokazanie_bazy.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sprawdz_nowe.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;ai.playground.ignore.import.keys.banner.in.settings&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -162,6 +117,11 @@
       <workItem from="1772462999918" duration="843000" />
       <workItem from="1772467957482" duration="263000" />
       <workItem from="1772468241443" duration="1212000" />
+      <workItem from="1772486587126" duration="4000" />
+      <workItem from="1772486619287" duration="181000" />
+      <workItem from="1772486821545" duration="1257000" />
+      <workItem from="1772488088279" duration="616000" />
+      <workItem from="1772495086480" duration="12000" />
     </task>
     <servers />
   </component>
@@ -183,6 +143,7 @@
     <SUITE FILE_PATH="coverage/System_memow$czytaj_tekst.coverage" NAME="czytaj_tekst Coverage Results" MODIFIED="1772377272517" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/System_memów$akstracja_cech.coverage" NAME="akstracja_cech Coverage Results" MODIFIED="1772375000264" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/System_memów$bezpieczne_nazwy.coverage" NAME="bezpieczne_nazwy Coverage Results" MODIFIED="1772374994744" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/System_mem_w$Digital_Asset_Management.coverage" NAME="Digital Asset Management Coverage Results" MODIFIED="1772487075902" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/System_memow$napraw_zbiór.coverage" NAME="napraw_zbiór Coverage Results" MODIFIED="1772463162182" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="github-copilot-workspace">
