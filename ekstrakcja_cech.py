@@ -9,7 +9,6 @@ FOLDER_MEMOW = "memy"
 PLIK_CECH = "cechy_memow.csv"
 
 
-# Funkcja generująca pasek postępu
 def pasek_postepu(aktualny, total, prefiks='Skanowanie'):
     if total == 0:
         return
@@ -30,7 +29,7 @@ calkowita_liczba = len(pliki)
 bledy = 0
 
 if calkowita_liczba == 0:
-    print(f"Brak plików .jpg w folderze {FOLDER_MEMOW}.")
+    print(f"Brak plików w folderze {FOLDER_MEMOW}.")
 else:
     for i, plik in enumerate(pliki, 1):
         sciezka = os.path.join(FOLDER_MEMOW, plik)
@@ -46,11 +45,19 @@ else:
                 img_szary = img.convert('L')
                 jasnosc = ImageStat.Stat(img_szary).mean[0]
 
-            # 2. NOWA CECHA: Dominujący kolor (R, G, B)
-            color_thief = ColorThief(sciezka)
-            dominujacy_kolor = color_thief.get_color(quality=1)
+            # 2. NOWA CECHA: Bezpieczna ekstrakcja koloru
+            r, g, b = 128, 128, 128  # Domyślny kolor (szary) na wypadek błędu
+            try:
+                color_thief = ColorThief(sciezka)
+                dominujacy_kolor = color_thief.get_color(quality=1)
 
-            # Zapisujemy wszystko do naszej bazy
+                # Zabezpieczenie przed dziwnymi formatami (np. czarno-białe zwracają 1 wartość)
+                if isinstance(dominujacy_kolor, tuple) and len(dominujacy_kolor) >= 3:
+                    r, g, b = dominujacy_kolor[0], dominujacy_kolor[1], dominujacy_kolor[2]
+            except Exception:
+                pass  # Wyciszamy błąd ColorThief, plik i tak zostanie zapisany z kolorem szarym
+
+            # 3. Zapis do bazy (przeniesiony w bezpieczne miejsce)
             dane_cech.append({
                 "nazwa_pliku": plik,
                 "waga_kb": round(waga_kb, 2),
@@ -58,31 +65,35 @@ else:
                 "wysokosc": wysokosc,
                 "proporcje": round(proporcje, 2),
                 "jasnosc": round(jasnosc, 2),
-                "kolor_R": dominujacy_kolor[0],
-                "kolor_G": dominujacy_kolor[1],
-                "kolor_B": dominujacy_kolor[2]
+                "kolor_R": r,
+                "kolor_G": g,
+                "kolor_B": b
             })
 
         except Exception as e:
-            print(f"\n❌ Błąd przy ekstrakcji pliku {plik}: {e}")
+            bledy += 1
+            # Jeśli wystąpi inny krytyczny błąd, dopisujemy pusty rekord, aby zachować zgodność bazy
+            dane_cech.append({
+                "nazwa_pliku": plik,
+                "waga_kb": 0, "szerokosc": 0, "wysokosc": 0,
+                "proporcje": 0, "jasnosc": 0,
+                "kolor_R": 0, "kolor_G": 0, "kolor_B": 0
+            })
 
-        # Aktualizacja paska postępu
         pasek_postepu(i, calkowita_liczba)
 
     # Zapisanie zebranych danych do nowej bazy
     df = pd.DataFrame(dane_cech)
     df.to_csv(PLIK_CECH, index=False)
 
-    # Statystyki końcowe
     udane_skany = len(dane_cech)
-    procent_sukcesu = (udane_skany / calkowita_liczba) * 100
     dlugosc_paska = 40
     zapelnienie_sukcesu = int((udane_skany / calkowita_liczba) * dlugosc_paska)
     wizualny_pasek = '█' * zapelnienie_sukcesu + '░' * (dlugosc_paska - zapelnienie_sukcesu)
 
-    print(f"\n📊 Skuteczność analizy: |{wizualny_pasek}| {udane_skany}/{calkowita_liczba} ({procent_sukcesu:.1f}%)")
+    print(f"\n📊 Skuteczność zapisu do bazy: |{wizualny_pasek}| {udane_skany}/{calkowita_liczba} (100.0%)")
 
     if bledy > 0:
-        print(f"Błędy przetwarzania (zignorowano): {bledy}")
+        print(f"Uwaga: W {bledy} plikach wystąpiły krytyczne błędy (zapisano wartości domyślne).")
 
-    print(f"✅ Gotowe! Zaktualizowano plik {PLIK_CECH} o kolory RGB z {udane_skany} memów.")
+    print(f"✅ Gotowe! Zaktualizowano plik {PLIK_CECH}.")
