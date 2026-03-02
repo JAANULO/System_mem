@@ -4,7 +4,54 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="14a2ffa8-e95b-402f-b4e4-a5f7e4801e72" name="Changes" comment="" />
+    <list default="true" id="14a2ffa8-e95b-402f-b4e4-a5f7e4801e72" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Start.bat" beforeDir="false" afterPath="$PROJECT_DIR$/Start.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cechy_memow.csv" beforeDir="false" afterPath="$PROJECT_DIR$/cechy_memow.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ekstrakcja_cech.py" beforeDir="false" afterPath="$PROJECT_DIR$/ekstrakcja_cech.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/00ece4437c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/08e5130872.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/0af7e90d01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/0cd7b10083.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/0f8047a54b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/27b7bceb32.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/27df90bf52.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/293dc1ba84.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/2d5d3eb674.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/3c29b3e7ed.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/3cd6a7e751.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/3dceca165f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/3eaaf8b387.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/3eaffb0753.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/4b0a96d971.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/5d30f1623c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/5e43d96fe1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/6824b76e89.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/6d02d9d66f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/6d2fb18e7f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/7a62cfb411.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/7ac32643e0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/7e5f7ea289.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/90add29973.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/95e9b3736b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/96af307ce5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/9b47c25ebd.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/9f0d46cbac.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/b2f7895e65.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/b649738b4f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/c28643454b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/c5d579238b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/cc762a7122.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/cd59143723.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/da8e8672ff.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/db38659d6c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/e3037ce6b2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/ed7e7fcdb0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/fb1bcb771f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/fd5f8c6e02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprawdz_nowe.py" beforeDir="false" afterPath="$PROJECT_DIR$/sprawdz_nowe.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +61,7 @@
     <persistenceIdMap>
       <entry key="_C:/Users/atona/Desktop/Projekty/System_memow" value="3ALgHETtCJNS3JX6zgI3XglboP6" />
       <entry key="_C:/Users/atona/Desktop/Projekty/System_memów" value="3AJBPY3cGM0CnGD4v8GfqCvgRMx" />
+      <entry key="_C:/Users/atona/Documents/GitHub/System_mem-w" value="3AOeI020QhmYvqvacUmusoRD9SM" />
     </persistenceIdMap>
   </component>
   <component name="CopilotUserSelectedModel">
@@ -28,6 +76,9 @@
         <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="McpProjectServerCommands">
     <commands />
@@ -57,6 +108,7 @@
     "Python.app.executor": "Run",
     "Python.bezpieczne_nazwy.executor": "Run",
     "Python.czytaj_tekst.executor": "Run",
+    "Python.ekstrakcja_cech.executor": "Run",
     "Python.generuj_gradient.executor": "Run",
     "Python.generuj_mozaike.executor": "Run",
     "Python.napraw_zbiór.executor": "Run",
@@ -65,8 +117,10 @@
     "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "ai.playground.ignore.import.keys.banner.in.settings": "true",
+    "git-widget-placeholder": "main",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -106,6 +160,8 @@
       <workItem from="1772460092518" duration="29000" />
       <workItem from="1772462971608" duration="17000" />
       <workItem from="1772462999918" duration="843000" />
+      <workItem from="1772467957482" duration="263000" />
+      <workItem from="1772468241443" duration="1212000" />
     </task>
     <servers />
   </component>
@@ -113,9 +169,12 @@
     <option name="version" value="3" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/System_mem_w$bezpieczne_nazwy.coverage" NAME="bezpieczne_nazwy Coverage Results" MODIFIED="1772468788243" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/System_memów$czytaj_tekst.coverage" NAME="czytaj_tekst Coverage Results" MODIFIED="1772304544375" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/System_memow$bezpieczne_nazwy.coverage" NAME="bezpieczne_nazwy Coverage Results" MODIFIED="1772377258774" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/System_mem_w$sprawdz_nowe.coverage" NAME="sprawdz_nowe Coverage Results" MODIFIED="1772471273721" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/System_memów$generuj_gradient.coverage" NAME="generuj_gradient Coverage Results" MODIFIED="1772375967627" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/System_mem_w$ekstrakcja_cech.coverage" NAME="ekstrakcja_cech Coverage Results" MODIFIED="1772471277537" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/System_memow$sprawdz_nowe.coverage" NAME="sprawdz_nowe Coverage Results" MODIFIED="1772463001827" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/System_memów$app.coverage" NAME="app Coverage Results" MODIFIED="1772376444481" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/System_memów$Digital_Asset_Management.coverage" NAME="Digital Asset Management Coverage Results" MODIFIED="1772376068545" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
