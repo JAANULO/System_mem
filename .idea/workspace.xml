@@ -35,6 +35,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;JAANULO&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/JAANULO/System_mem-w.git&quot;,
+    &quot;accountId&quot;: &quot;b993191f-61bb-4e7a-9fb4-3d6fc320599b&quot;
+  }
+}</component>
   <component name="McpProjectServerCommands">
     <commands />
     <urls />
@@ -128,6 +140,9 @@
       <workItem from="1772536413544" duration="17000" />
       <workItem from="1772536438877" duration="67000" />
       <workItem from="1772536521259" duration="1148000" />
+      <workItem from="1772547901641" duration="5000" />
+      <workItem from="1772547907696" duration="13000" />
+      <workItem from="1772547949947" duration="47000" />
     </task>
     <task id="LOCAL-00001" summary="yol">
       <option name="closed" value="true" />
