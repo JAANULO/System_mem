@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="14a2ffa8-e95b-402f-b4e4-a5f7e4801e72" name="Changes" comment="hb" />
+    <list default="true" id="14a2ffa8-e95b-402f-b4e4-a5f7e4801e72" name="Changes" comment="hb">
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,6 +37,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "JAANULO"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/JAANULO/System_mem-w.git",
+    "accountId": "b993191f-61bb-4e7a-9fb4-3d6fc320599b"
+  }
+}]]></component>
   <component name="McpProjectServerCommands">
     <commands />
     <urls />
@@ -126,6 +141,7 @@
       <workItem from="1772540471546" duration="13000" />
       <workItem from="1772540506745" duration="354000" />
       <workItem from="1772541111521" duration="2449000" />
+      <workItem from="1772553822641" duration="819000" />
     </task>
     <task id="LOCAL-00001" summary="hb">
       <option name="closed" value="true" />
