@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="14a2ffa8-e95b-402f-b4e4-a5f7e4801e72" name="Changes" comment="yol">
+      <change beforePath="$PROJECT_DIR$/.idea/System_memow.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/System_memow.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cechy_memow.csv" beforeDir="false" afterPath="$PROJECT_DIR$/cechy_memow.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,43 +66,44 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Batch.Start.executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Notification.DisplayName-DoNotAsk-Project Loading Error&quot;: &quot;Could not load project&quot;,
-    &quot;Notification.DisplayName-DoNotAsk-WindowsDefender&quot;: &quot;Microsoft Defender may affect IDE&quot;,
-    &quot;Notification.DisplayName-DoNotAsk-grazie.missing.language&quot;: &quot;Proofreader is Missing Languages&quot;,
-    &quot;Notification.DoNotAsk-Project Loading Error&quot;: &quot;true&quot;,
-    &quot;Notification.DoNotAsk-WindowsDefender&quot;: &quot;true&quot;,
-    &quot;Notification.DoNotAsk-grazie.missing.language&quot;: &quot;true&quot;,
-    &quot;Python.Digital Asset Management.executor&quot;: &quot;Run&quot;,
-    &quot;Python.akstracja_cech.executor&quot;: &quot;Run&quot;,
-    &quot;Python.app.executor&quot;: &quot;Run&quot;,
-    &quot;Python.bezpieczne_nazwy.executor&quot;: &quot;Run&quot;,
-    &quot;Python.czytaj_tekst.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ekstrakcja_cech.executor&quot;: &quot;Run&quot;,
-    &quot;Python.generuj_gradient.executor&quot;: &quot;Run&quot;,
-    &quot;Python.generuj_mozaike.executor&quot;: &quot;Run&quot;,
-    &quot;Python.napraw_zbiór.executor&quot;: &quot;Run&quot;,
-    &quot;Python.pokazanie_bazy.executor&quot;: &quot;Run&quot;,
-    &quot;Python.sprawdz_nowe.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;ai.playground.ignore.import.keys.banner.in.settings&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;memory.settings&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Batch.Start.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Notification.DisplayName-DoNotAsk-Project Loading Error": "Could not load project",
+    "Notification.DisplayName-DoNotAsk-WindowsDefender": "Microsoft Defender may affect IDE",
+    "Notification.DisplayName-DoNotAsk-grazie.missing.language": "Proofreader is Missing Languages",
+    "Notification.DoNotAsk-Project Loading Error": "true",
+    "Notification.DoNotAsk-WindowsDefender": "true",
+    "Notification.DoNotAsk-grazie.missing.language": "true",
+    "Python.Digital Asset Management.executor": "Run",
+    "Python.akstracja_cech.executor": "Run",
+    "Python.app.executor": "Run",
+    "Python.bezpieczne_nazwy.executor": "Run",
+    "Python.czytaj_tekst.executor": "Run",
+    "Python.czytanie_AI.executor": "Run",
+    "Python.ekstrakcja_cech.executor": "Run",
+    "Python.generuj_gradient.executor": "Run",
+    "Python.generuj_mozaike.executor": "Run",
+    "Python.napraw_zbiór.executor": "Run",
+    "Python.pokazanie_bazy.executor": "Run",
+    "Python.sprawdz_nowe.executor": "Run",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "ai.playground.ignore.import.keys.banner.in.settings": "true",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -143,6 +147,8 @@
       <workItem from="1772547901641" duration="5000" />
       <workItem from="1772547907696" duration="13000" />
       <workItem from="1772547949947" duration="47000" />
+      <workItem from="1772629597629" duration="3000" />
+      <workItem from="1772629602128" duration="1047000" />
     </task>
     <task id="LOCAL-00001" summary="yol">
       <option name="closed" value="true" />
@@ -170,15 +176,18 @@
     <SUITE FILE_PATH="coverage/System_memów$generuj_gradient.coverage" NAME="generuj_gradient Coverage Results" MODIFIED="1772375967627" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/System_mem_w$ekstrakcja_cech.coverage" NAME="ekstrakcja_cech Coverage Results" MODIFIED="1772471277537" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/System_memow$sprawdz_nowe.coverage" NAME="sprawdz_nowe Coverage Results" MODIFIED="1772463001827" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/czytaj_tekst_py$czytanie_AI.coverage" NAME="czytanie_AI Coverage Results" MODIFIED="1772630000560" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/System_memów$app.coverage" NAME="app Coverage Results" MODIFIED="1772376444481" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/System_memów$Digital_Asset_Management.coverage" NAME="Digital Asset Management Coverage Results" MODIFIED="1772376068545" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/System_memów$generuj_mozaike.coverage" NAME="generuj_mozaike Coverage Results" MODIFIED="1772375888750" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/System_memów$pokazanie_bazy.coverage" NAME="pokazanie_bazy Coverage Results" MODIFIED="1772376271808" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/System_memow$czytaj_tekst.coverage" NAME="czytaj_tekst Coverage Results" MODIFIED="1772377272517" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/System_memów$akstracja_cech.coverage" NAME="akstracja_cech Coverage Results" MODIFIED="1772375000264" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/czytaj_tekst_py$Digital_Asset_Management.coverage" NAME="Digital Asset Management Coverage Results" MODIFIED="1772630006886" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/System_memów$bezpieczne_nazwy.coverage" NAME="bezpieczne_nazwy Coverage Results" MODIFIED="1772374994744" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/System_mem_w$Digital_Asset_Management.coverage" NAME="Digital Asset Management Coverage Results" MODIFIED="1772487075902" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/System_memow$napraw_zbiór.coverage" NAME="napraw_zbiór Coverage Results" MODIFIED="1772463162182" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/czytaj_tekst_py$czytaj_tekst.coverage" NAME="czytaj_tekst Coverage Results" MODIFIED="1772629635085" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="github-copilot-workspace">
     <instructionFileLocations>
