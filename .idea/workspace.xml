@@ -5,10 +5,953 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="14a2ffa8-e95b-402f-b4e4-a5f7e4801e72" name="Changes" comment="yol">
-      <change beforePath="$PROJECT_DIR$/.idea/System_memow.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/System_memow.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/System_memow.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cechy_memow.csv" beforeDir="false" afterPath="$PROJECT_DIR$/cechy_memow.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Digital Asset Management.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Start.bat" beforeDir="false" afterPath="$PROJECT_DIR$/Start.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bezpieczne_nazwy.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cechy_memow.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/czytaj_tekst.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/czytanie_AI.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ekstrakcja_cech.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/generuj_gradient.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/generuj_mozaike.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/grupuj_memy.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/008ac9af9d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/00ece4437c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/00f3083e34.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/01020c0554.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/0149450f2c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/014e0f70fe.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/01a183c932.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/01c1855fc6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/01efc9cecc.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/027bf61bc7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/028f98a8eb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/02967a519d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/02cf038e05.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/031d73d020.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/03202d8ade.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/0335a12361.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/0358736de2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/03c21fdda3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/041f2d1e26.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/0424510c43.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/0429cd183a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/044330bb28.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/0490b40499.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/0496161730.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/051b18cc77.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/05bdf6d8c4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/05f0782aeb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/065e818b16.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/0670a69643.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/069e55fd7a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/06bfb12cd6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/078af62fe1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/07c22ff9cc.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/07c426959b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/07ceb394b2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/07d78572f8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/07e2df1e3b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/07f5ecc556.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/0813444907.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/086d9910d7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/087ff277f2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/08d5db810f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/08d76f6841.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/08f9c74106.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/0911f21b08.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/09413ad3e6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/094d2dc146.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/097063d16d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/09eaac4687.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/0a22d2a862.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/0a3b18af99.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/0a68153a88.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/0aa42a53a6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/0aeb8593c5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/0b397d4f53.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/0bcb24679b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/0c1bbda72f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/0c3268a232.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/0c4a90408c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/0ca777018c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/0cbd5a0b55.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/0ce9bc98d8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/0d386c1390.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/0e3b6d2172.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/0e594b25c8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/0e5a31f5f5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/0e5deea4c2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/0e9a15ee2a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/0ec45140c0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/0f325acab1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/0f75891840.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/0fba7fbc71.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/0fc0d92131.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/0fecd7be9a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/0ff9e85e0c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/112d00d756.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/1143f39d06.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/1286aa87cb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/128ff7b5ed.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/129d686c25.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/12f854d1db.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/131f8a66da.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/13a0917bf7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/13bae21eec.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/1425bcd222.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/153f736fa5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/155dc5c339.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/1573968d00.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/15b8cb890f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/15bb6d167d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/15c89fcb80.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/15c8a8a36b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/15ef4ecc76.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/160151ebcc.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/162b36d4d2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/1676c12a6a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/17a16e1bb7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/17add738ed.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/17e5354165.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/181f7177be.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/18df70f276.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/195b1d8f72.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/197b49dfc2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/19ff4c80e5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/1a40287761.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/1a6fd9c1d6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/1aa32a4ec5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/1ae9c2dfa8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/1b164dd541.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/1b1d686fb2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/1b9bc9b6cc.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/1bd01621aa.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/1beef120b3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/1c493e5885.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/1c92f55a86.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/1da5bc8731.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/1dc86297b6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/1dcfeef74e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/1dd3aa5e61.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/1e0c7996f7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/1e37682f18.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/1ef23cdf30.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/1ef4822084.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/1ef6a08116.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/1f1aff5e0e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/1f63a23e96.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/1f77a23cfc.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/20307d9d3e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/203b7fd63e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/2042ad535f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/20fd639619.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/215c4bdc63.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/21e9925f21.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/2409a5e7de.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/2468c63c58.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/24844b0b4d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/24d2870ead.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/24d9ffe778.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/24f6c7877d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/256ae7a278.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/25a7b137c5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/25e249833e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/262962761f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/2681084c76.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/268429366c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/27c0273601.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/283314e664.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/287a141198.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/28fa118b41.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/297c183af7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/297fe5287a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/299479d914.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/29e6bb50d4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/2a0ac6ea55.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/2a3d5d6424.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/2aa3624fe5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/2b1407ec7c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/2b2479d500.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/2b537a23d5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/2b7d440fee.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/2baa65f6ed.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/2bf483fc6b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/2c1ba02296.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/2c4f8c4c9a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/2c929ee935.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/2cbe3af28c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/2cf7c30306.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/2d30505224.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/2d3a172f16.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/2d3cdb9ad2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/2d6e438dcb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/2d93829a1b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/2dc062998b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/2e4874a285.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/2e6aa9d190.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/2e9b0a6915.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/2ea257f6b2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/2ee4222eea.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/2f1fb11d0b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/2f60c6731f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/2f65a5f62f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/2fd5a439c3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/300fdd9c80.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/310e587052.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/3122e5d326.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/313d6e321f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/31abc9db9d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/32a53ec510.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/330ec197ad.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/332f8b0741.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/3376393274.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/339216f41a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/33b0a80377.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/341cbfc9b0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/343b228cab.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/34453d125c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/34c4ce78cd.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/350bf6874d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/350d18041c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/354d00bef5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/3573975336.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/36163390b9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/36260fed39.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/362b80225c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/364e655013.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/3650a62eb9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/36546e4346.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/368977f68b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/36aea13d57.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/36e11901cc.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/374a6d550e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/3755f8e576.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/375ecc3332.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/379d94978b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/380f6ba0b4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/38ed512981.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/38f26791f0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/394ca5fb8f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/3973345695.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/39b1afc19c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/39b28e14c9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/39e14f8bb3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/3a628129fb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/3ac3a81ae5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/3b835b278b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/3baf4c8c68.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/3c06985343.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/3c26394307.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/3c44055399.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/3c9805cda0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/3d1c641cca.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/3d2030ad88.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/3d7a4065e1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/3d7ec5de46.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/3da97b99fa.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/3dbeffa10e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/3e34207f76.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/3e9426ff1e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/3ecb1a4a63.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/3eec15726d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/3f1d14bdf1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/3f1d7d0b1c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/3f1ef7c8bf.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/3feab718fd.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/4000c261aa.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/40c0dab142.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/40d6890ac1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/4101d676a4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/4108973f86.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/4111c1a058.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/416519a3ae.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/418ecc5971.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/41bb7ffca4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/41ce31bee5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/41d3d22141.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/4203ece517.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/4218395ecc.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/421f49d0c2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/425a7003ae.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/426374207e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/42cabaab0d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/4329eb0875.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/43a8e407ac.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/43f68fc6b6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/443a9e0eb9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/446065fda6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/455c243a60.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/4582d97238.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/45ad39dd5e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/45b029271b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/45bcb574d3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/4646f54db7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/464e412160.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/46635b41aa.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/4680375dd2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/4695393ffd.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/46aa2d7424.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/46c4380bf7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/46d87016b8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/4737d028cc.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/478c0e3c3d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/4802bbb54e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/481aa4f7f5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/4826e0a93c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/48cff906ed.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/494945887b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/49664fc726.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/4a3b16f8ca.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/4a89d4bb07.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/4adef92292.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/4b2fe15428.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/4b7ba089f3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/4b90379e91.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/4c13f7de03.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/4c65274ba1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/4c7b03eef7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/4c929b6b3b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/4da28466af.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/4dfc9e27fa.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/4e062c78d4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/4e4e0697d9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/4f6bd2dbd7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/4fa5a77fd6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/4fc970327f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/50a06fee2f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/50a9dc26fe.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/517524544f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/5194e3f0a8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/51ec9f9d28.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/522a822645.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/524950bb69.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/5256328674.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/5309497958.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/53e61f6257.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/53f2ca9f0f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/54218331ad.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/542b100707.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/544f3ff308.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/5450fb80ee.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/5464e3813d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/54683fd51f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/553f440446.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/5574fde5af.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/55967fd2e4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/562305176b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/569952f2d8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/56f965eac4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/573875ed54.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/5782670a2c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/585923781a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/5889e6ea08.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/590298605a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/597a4e7812.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/5984dbfd5f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/59dc14fb71.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/5a082bfbd3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/5a43a00018.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/5b1a96eb73.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/5bb9104f72.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/5bcfeb9b38.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/5be53d1549.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/5bfa0cbe5d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/5c04de5441.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/5cc0d7c4aa.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/5cd6691d50.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/5ce53234d2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/5d4e5612db.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/5dc15feb43.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/5e3bec6d21.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/5e6dcefa28.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/5e71fe09c2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/5e82c7910e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/5ea1546c78.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/5eb82999c1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/5ebff3a3c0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/5f0cbf2d85.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/5f6027ab1a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/5f6b7ab5d5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/5f851335cc.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/5f8767a37b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/5fb618006e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/5fb75049da.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/5fb9c9f428.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/5fc4bdcb98.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/60fa735a1d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/619c33d85d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/61c389cc98.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/622e5a5b37.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/62565f84b7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/627d41d88b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/6334d2aaba.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/639ce3fa5c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/639d3acf93.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/63d5503e95.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/64531d57ff.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/64f3d56350.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/64f56a7097.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/6509ec895f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/6549c48782.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/65828a9258.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/659865324e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/65ba682469.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/65dab6f491.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/65fc1a8064.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/662e80a0c4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/66605db1f0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/66756dbf30.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/667b63a37b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/6691031948.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/66b2bdaa6a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/6709fc22ad.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/670ef87e3a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/6760235c1d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/687b4daad9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/6880afa704.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/68e42f66e9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/68eb15a76c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/6988ac3b0d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/69a8f674e8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/6a7a7bebd2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/6ad251de67.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/6ade5c08b9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/6afb9983b1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/6b21503d1b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/6b24771e68.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/6b2bf1599b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/6ba192514b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/6c5d96e4a7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/6ca4bc8d65.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/6d6f7a2b77.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/6d9d6ed8e4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/6dd8ade5ab.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/6e06cec7c5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/6e0f0221ec.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/6e46610802.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/6e69115b39.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/6e6a29da3b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/6ee8f4277c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/6f61944bc7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/6fd040e0d8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/700da5e198.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/702c3ec412.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/7068a7870b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/70e12c2efb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/71058db6e2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/712eeeda99.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/71528496da.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/7187230f4e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/7202d7aae6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/7284aff1f3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/730ceb23fb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/7374b3a705.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/739c83c721.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/73d28ec1d4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/73d67c526f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/73f04c7701.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/74421e193e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/746d39aa34.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/74738b7894.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/749b042dfe.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/74ead43873.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/7517d5e4a3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/75426d69bf.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/7559423853.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/75ebaeeeed.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/7622dfb71e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/76f024fd1d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/77eda0616e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/77f8bbce02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/780f011696.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/78508a4ee9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/78c72abfcb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/793e8ae354.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/7967af0dd4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/79a1950110.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/7a53a56eb6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/7b4373ff90.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/7b5bb9d3e0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/7b78eca721.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/7b7bc5f625.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/7bf7b344a7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/7c2c542c7b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/7c7226198d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/7c891b4b2f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/7daadaa865.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/7dbc30b7ad.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/7e31a018ac.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/7e552ff965.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/7ea16e89cf.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/7f0050e129.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/7f165b23f0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/7f2899c697.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/7f49301fa2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/7fa2a83fce.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/80273a80f2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/802990fa9c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/80ab6dd4d8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/813b72887a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/815c14f7ac.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/81cb2b8f85.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/81cf00de17.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/8209615c66.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/821a4d261d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/822b2215d0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/82756f9f44.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/836d5dcb12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/8371876728.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/8436cb9f84.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/84a5159cc4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/860d2a5572.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/86162454e4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/86396f7713.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/863fa6e19f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/86597e5ab5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/867002761f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/86c548db2f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/87806ea012.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/87938adeef.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/884ac2b0fd.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/8884ccbbaf.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/889e8cad9c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/89167e2d95.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/898e3939c5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/89c31748e1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/89d976ae01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/8a1d5fc8a1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/8a5680a44a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/8a6ad41553.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/8a86c10ddc.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/8b269ec19a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/8bcbeb33ef.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/8bd4ec3f40.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/8c16665222.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/8c2adc86f9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/8dc7c85314.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/8e696a3c0f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/8e6a11073f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/8e7016508c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/8e763c5596.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/8ecfa8eba3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/8ef7832410.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/8f1eac5796.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/8f6f49cfd2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/8f7ed2cb40.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/8fcfe0358e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/902379ad6e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/906cd91365.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/90d93a49cf.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/90dc354183.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/90f74a3d37.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/91104b24ed.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/917337cb54.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/91ac288511.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/91d635704d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/927e6f41e3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/93a10902ec.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/93b2178d02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/93dd1113c3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/93e00ca181.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/9433098620.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/94b258184e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/94d06e81c2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/9577297d4c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/95c9eabdc9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/96092711e0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/96182c151c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/967a0e6a8b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/968d7bb79d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/968f8faa4b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/9710c1ccdd.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/97364df62a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/97b4b10074.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/97d0184d94.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/97fc9e3705.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/980be43ef9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/984907489b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/984e9c00a7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/9867512884.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/989118dbb2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/98bc20c2c9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/9931093ecf.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/994e931c2b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/999075bf86.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/9a5dd34274.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/9a5ecabdc3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/9ab87681a5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/9b1a826d1a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/9b2e8e1379.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/9b5963f5df.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/9bed7a1dfb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/9c00b6a26c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/9c18ccc670.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/9c7656d830.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/9c89021e51.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/9ced5ef9af.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/9d7b374e3f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/9d9fc62bd7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/9da9817fb6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/9e6b351839.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/9e8b7f6d33.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/9f8c5f44d2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/9f907c26fc.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/9faf142319.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/a09a3358c9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/a170fd66b2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/a1863c08f7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/a22cef6898.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/a2b26348f5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/a2ca48e006.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/a2e253d579.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/a3fd6e390b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/a403748fe2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/a418cb6982.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/a427eb3de6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/a469209f7e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/a507ed28f2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/a64ee4157a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/a65d5bdaed.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/a65f73ab16.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/a66379596c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/a6982ce488.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/a6b6d151d9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/a6debb9a07.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/a79bff62a2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/a7bc7b7cbc.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/a7f3ed42a9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/a81865f4fb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/a82c8f369c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/a87035f239.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/a8735a8bf2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/a8e4d3d613.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/a9456b02e7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/a96f5324e6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/a9d93216a1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/aa2166118c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/aaa356d014.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/aaa9af27be.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/aab4f8641f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/ab6634d7a8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/ab6903c3c2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/ab780cbd6f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/ab870b5211.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/aba68f73cf.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/abfe9d2795.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/ac1d6ccda1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/aca1049b94.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/ad9c3aa6f8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/adcb874b57.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/ae0da799f6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/ae3d0cac01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/ae48ae1ff1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/aefb9d5fbe.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/af0fef52b5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/af37c9dfd0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/afb8a44a17.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/afc69534e0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/afd44c3e18.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/afd8de9b67.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/b064bed6f2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/b072cba56f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/b100695746.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/b2067d639f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/b23444194f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/b23ba9d78a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/b2c710a0ec.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/b302c5e438.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/b31455027e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/b3ec4fd6f8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/b4a1773263.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/b533ad53d7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/b554fab48f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/b57072d57c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/b59bc4d03c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/b60438c06b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/b6c2ee32c3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/b73cd6aa28.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/b77e4f4e56.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/b7986a34b7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/b7e860d37b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/b7f5cfb8c1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/b83852c2b7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/b8565e58c5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/b866515565.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/b87d3c8d1c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/b89756a51c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/b8d3e967f8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/b8fb1b7e9d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/b984973e43.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/b995fd2e88.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/bb6598f9d0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/bb6c215ee4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/bbde6a5e71.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/bc1df1d011.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/bc670557d1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/bc7c4dfc0a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/bc9fdc99dd.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/bcfbcff9d6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/bd0f375e99.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/bd8223f700.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/be469819ec.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/be83fb431a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/bee8c6dd2a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/beefec20dd.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/bf24f075fa.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/bf34aa387c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/bf3a8a6d79.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/bf6343312b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/bfb4c14e59.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/bff3d20e6f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/c0089221e2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/c03a0ef0c8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/c08b2d024a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/c0db6e08c9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/c0e9be687d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/c1057cb24c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/c10a553374.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/c17fae6afc.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/c1d17fec9d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/c1fead8b0e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/c292106869.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/c2b289e533.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/c2b75d1759.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/c2ed727c26.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/c37eff8a7a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/c3bb7ea59b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/c4c227b9fb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/c50232bee7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/c5142f7f04.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/c52685ed0c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/c5427c8356.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/c54c8f5c4d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/c56c666882.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/c58e977e81.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/c59a4a6199.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/c66dae7d4c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/c6953f7abb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/c6b1c0a759.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/c800a3bf93.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/c825b77f30.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/c8325720bb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/c88282ba95.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/c893ddb7ea.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/c92a3a45a4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/c947b0d087.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/c97a1f816f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/c9b23bd918.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/ca446e4460.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/ca7031fafe.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/ca7cd1c413.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/cac4e27a76.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/cb2d5c6c1a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/cbab9ccec5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/cc00d5b2b5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/cc42e38565.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/cc76fbd03f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/cd9da7107f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/ce47c26466.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/cea603e92e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/cea9117f7f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/cee1a3a15e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/cf0724c993.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/cf205c57db.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/cf78acb50c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/cfd7f90a27.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/cfea758c39.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/d020dabc51.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/d059f9966a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/d0891afc12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/d13f04e498.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/d1a08dccb9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/d1c76aa3a2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/d1da039780.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/d1f6287a44.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/d2f9bbeb6c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/d3765a21bc.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/d3837de374.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/d388a16764.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/d3c2218d4a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/d3d36c1cb4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/d405e35f52.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/d4a28e344c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/d5265ca84d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/d53c8a51da.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/d577a6d0cd.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/d585a399a4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/d5a94a0792.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/d5bdee1a42.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/d6156f693b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/d6278d929b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/d63da65a73.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/d6989930ce.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/d6c30d4aa6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/d7b733bcf8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/d7f5f47041.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/d842ff02ea.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/d8c7f5e09e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/d8eb6d1bab.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/d8f0c8a3a1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/d8fa07b742.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/d9396bd036.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/d9e0d1486f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/da27c16917.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/da8977b3bc.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/da8e1b74a3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/dae482a625.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/db0538152e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/dc11342e8a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/dcaf2b499b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/dccaa3ab53.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/dcf636d51c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/dcfaeac33f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/dd2a915524.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/dd5cb7a487.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/dd876562c9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/ddf6a16df7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/de86652f93.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/de8bf9e22c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/df1012ca86.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/df1249413d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/df7b4832fe.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/dfbf6d2d1a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/e02d5c2a9e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/e06d25a537.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/e07816da3d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/e0ad7f0659.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/e0e0f6d84e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/e0ea701e56.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/e11b22e560.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/e15c1bd01a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/e170a3dd18.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/e1b1e66f81.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/e204a86362.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/e20afafc1b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/e246fdae1b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/e3819c71d7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/e4b480ae63.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/e4b79c292c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/e4f748eca4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/e593c26036.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/e59dc213e8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/e5bcae0c60.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/e75979d4fe.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/e7a93a1093.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/e7ec9d2260.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/e809efab78.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/e82a38782a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/e88dd78225.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/e9019591c9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/e91d5005f1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/e93aacbd03.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/e93cad02c4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/e93e346258.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/e9686ba10c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/e99616b0d6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/e99cb8ef68.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/e9d2af5afa.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/ea7587c6c0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/eae0fbc883.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/eaf713608c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/eb4df742b5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/eb9bcb9e08.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/ebbe9a6998.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/ec09331644.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/ec31729b7f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/ec802539b7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/edaa9a7ee4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/edd51a229a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/ee6c04eb94.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/ee78482818.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/eeaef8a31c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/eed0d8e95b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/ef579f0e47.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/efe5befe8a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/efebfd6834.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/f00ebf229e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/f051d19ae5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/f08b8eae4a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/f0b8eefe0a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/f0c5c98336.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/f16b25aa1d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/f19b694ffb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/f2187a183c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/f224462e5d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/f2760346e3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/f2c6acddbe.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/f307518f63.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/f312fecff2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/f325d4878b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/f3340d15c4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/f39d2e14e4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/f40c4d7f4c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/f43be9b3eb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/f4840b5e99.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/f50cc33dd3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/f52efefe29.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/f572d07607.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/f6029c5641.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/f62106efc3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/f656322fd9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/f6674f9bef.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/f685d6e376.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/f686361643.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/f8284e77a9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/f8444077fa.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/f94365c332.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/f95338432d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/f95ad2de76.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/f972b4a49a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/f9928f4708.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/f9c5633fb3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/f9e89143b3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/fa1633662f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/fa1b124a88.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/fa27074a01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/fa81c96028.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/fabb24ec05.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/fabe1fc754.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/facd7777f0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/fb2039def8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/fb8e23a677.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/fbaecd9bcd.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/fc3b05b0d4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/fc3f21cfcc.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/fc5211b18e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/fc6ca45923.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/fc8e6eb935.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/fcb365574c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/fcd87d22c1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/fce8162e21.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/fd423f72f8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/fd4f670d6d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/fe1dda7fa3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/fe4a5c7534.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/fe80bc65d0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/fec2f4f03e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/ff6a24c69c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/ff76e15758.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/ff96bcbf45.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/ff9900299b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memy/ffd01efb1d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/napraw_zbiór.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obiekty_memow.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pokazanie_bazy.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skaner_gps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprawdz_nowe.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/szukanie_grup.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wyniki.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yolov8n.pt" beforeDir="false" afterPath="$PROJECT_DIR$/yolov8n.pt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zmien_nazwy.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +962,7 @@
     <persistenceIdMap>
       <entry key="_C:/Users/atona/Desktop/Projekty/System_memow" value="3ALgHETtCJNS3JX6zgI3XglboP6" />
       <entry key="_C:/Users/atona/Desktop/Projekty/System_memów" value="3AJBPY3cGM0CnGD4v8GfqCvgRMx" />
+      <entry key="_C:/Users/atona/Documents/GitHub/System_mem" value="3B1WCsxARLHvJqKkJJJcXhWlMr8" />
       <entry key="_C:/Users/atona/Documents/GitHub/System_mem-w" value="3AOeI020QhmYvqvacUmusoRD9SM" />
     </persistenceIdMap>
   </component>
@@ -46,7 +990,7 @@
 }</component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/JAANULO/System_mem-w.git&quot;,
+    &quot;url&quot;: &quot;https://github.com/JAANULO/System_mem.git&quot;,
     &quot;accountId&quot;: &quot;b993191f-61bb-4e7a-9fb4-3d6fc320599b&quot;
   }
 }</component>
@@ -66,44 +1010,44 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Batch.Start.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Notification.DisplayName-DoNotAsk-Project Loading Error": "Could not load project",
-    "Notification.DisplayName-DoNotAsk-WindowsDefender": "Microsoft Defender may affect IDE",
-    "Notification.DisplayName-DoNotAsk-grazie.missing.language": "Proofreader is Missing Languages",
-    "Notification.DoNotAsk-Project Loading Error": "true",
-    "Notification.DoNotAsk-WindowsDefender": "true",
-    "Notification.DoNotAsk-grazie.missing.language": "true",
-    "Python.Digital Asset Management.executor": "Run",
-    "Python.akstracja_cech.executor": "Run",
-    "Python.app.executor": "Run",
-    "Python.bezpieczne_nazwy.executor": "Run",
-    "Python.czytaj_tekst.executor": "Run",
-    "Python.czytanie_AI.executor": "Run",
-    "Python.ekstrakcja_cech.executor": "Run",
-    "Python.generuj_gradient.executor": "Run",
-    "Python.generuj_mozaike.executor": "Run",
-    "Python.napraw_zbiór.executor": "Run",
-    "Python.pokazanie_bazy.executor": "Run",
-    "Python.sprawdz_nowe.executor": "Run",
-    "RunOnceActivity.MCP Project settings loaded": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "ai.playground.ignore.import.keys.banner.in.settings": "true",
-    "git-widget-placeholder": "main",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Batch.Start.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Notification.DisplayName-DoNotAsk-Project Loading Error&quot;: &quot;Could not load project&quot;,
+    &quot;Notification.DisplayName-DoNotAsk-WindowsDefender&quot;: &quot;Microsoft Defender may affect IDE&quot;,
+    &quot;Notification.DisplayName-DoNotAsk-grazie.missing.language&quot;: &quot;Proofreader is Missing Languages&quot;,
+    &quot;Notification.DoNotAsk-Project Loading Error&quot;: &quot;true&quot;,
+    &quot;Notification.DoNotAsk-WindowsDefender&quot;: &quot;true&quot;,
+    &quot;Notification.DoNotAsk-grazie.missing.language&quot;: &quot;true&quot;,
+    &quot;Python.Digital Asset Management.executor&quot;: &quot;Run&quot;,
+    &quot;Python.akstracja_cech.executor&quot;: &quot;Run&quot;,
+    &quot;Python.app.executor&quot;: &quot;Run&quot;,
+    &quot;Python.bezpieczne_nazwy.executor&quot;: &quot;Run&quot;,
+    &quot;Python.czytaj_tekst.executor&quot;: &quot;Run&quot;,
+    &quot;Python.czytanie_AI.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ekstrakcja_cech.executor&quot;: &quot;Run&quot;,
+    &quot;Python.generuj_gradient.executor&quot;: &quot;Run&quot;,
+    &quot;Python.generuj_mozaike.executor&quot;: &quot;Run&quot;,
+    &quot;Python.napraw_zbiór.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pokazanie_bazy.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sprawdz_nowe.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;ai.playground.ignore.import.keys.banner.in.settings&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -149,6 +1093,11 @@
       <workItem from="1772547949947" duration="47000" />
       <workItem from="1772629597629" duration="3000" />
       <workItem from="1772629602128" duration="1047000" />
+      <workItem from="1773656930410" duration="261000" />
+      <workItem from="1773657451808" duration="426000" />
+      <workItem from="1773660808071" duration="3000" />
+      <workItem from="1773660825819" duration="873000" />
+      <workItem from="1773661867517" duration="20000" />
     </task>
     <task id="LOCAL-00001" summary="yol">
       <option name="closed" value="true" />

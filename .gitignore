@@ -1,0 +1,20 @@
+# 1. Środowiska wirtualne (nie wysyłamy pobranych bibliotek!)
+venv/
+env/
+.env/
+
+# 2. Pliki tymczasowe i cache Pythona
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+# 3. Logi i pliki systemowe
+*.log
+Thumbs.db
+.DS_Store
+
+# 4. Konfiguracje IDE (opcjonalnie)
+.vscode/
+.idea/

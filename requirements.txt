@@ -1,0 +1,21 @@
+# --- GUI i Wizualizacje ---
+streamlit
+plotly
+matplotlib
+
+# --- Przetwarzanie Danych ---
+pandas
+numpy
+scikit-learn
+
+# --- Przetwarzanie Obrazu ---
+Pillow
+colorthief
+
+# --- Sztuczna Inteligencja / ML ---
+torch
+torchvision
+ultralytics
+easyocr
+facenet-pytorch
+transformers

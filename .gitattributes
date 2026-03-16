@@ -1,0 +1,12 @@
+# Obrazy (Memy)
+*.jpg filter=lfs diff=lfs merge=lfs -text
+*.jpeg filter=lfs diff=lfs merge=lfs -text
+*.png filter=lfs diff=lfs merge=lfs -text
+*.gif filter=lfs diff=lfs merge=lfs -text
+
+# Modele AI i bazy wektorowe (Pickle, PyTorch)
+*.pkl filter=lfs diff=lfs merge=lfs -text
+*.pt filter=lfs diff=lfs merge=lfs -text
+
+# Ewentualne inne ciężkie dane
+*.csv filter=lfs diff=lfs merge=lfs -text

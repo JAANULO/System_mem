@@ -9,10 +9,10 @@ from PIL import Image, ImageDraw
 # ==========================================
 # 1. KONFIGURACJA
 # ==========================================
-FOLDER_MEMOW = "memy"
-PLIK_WYNIKOW = "wyniki.csv"
-PLIK_CECH = "cechy_memow.csv"
-PLIK_OBIEKTOW = "obiekty_memow.csv"
+FOLDER_MEMOW = "data/memy"
+PLIK_WYNIKOW = "data/wyniki.csv"
+PLIK_CECH = "data/cechy_memow.csv"
+PLIK_OBIEKTOW = "data/obiekty_memow.csv"
 
 st.set_page_config(page_title="Meme System", layout="wide")
 
@@ -84,6 +84,7 @@ elif strona == "🤖 Korekta OCR":
     st.title("Ocena i korekta modelu OCR")
     if os.path.exists(PLIK_CECH):
         df_c = pd.read_csv(PLIK_CECH)
+
         if 'czy_ma_tekst' in df_c.columns:
             # POPRAWKA: Rozszerzone filtrowanie na wypadek zmiany formatu na ułamek (1.0) lub tekst ("1")
             memy_ocr = df_c[df_c['czy_ma_tekst'].isin([1, 1.0, '1', '1.0'])]
@@ -92,7 +93,11 @@ elif strona == "🤖 Korekta OCR":
                 st.info(
                     "💡 Nie znaleziono jeszcze żadnych memów z tekstem. Upewnij się, że skrypt OCR zakończył działanie.")
             else:
-                for index, row in memy_ocr.iterrows():
+                # Ograniczenie wyświetlania, by nie zablokować przeglądarki (DOM)
+                memy_ocr_limit = memy_ocr.head(20)
+                st.write(f"Wyświetlam {len(memy_ocr_limit)} z {len(memy_ocr)} wyników dla wydajności.")
+
+                for index, row in memy_ocr_limit.iterrows():
                     k1, k2 = st.columns([1, 2])
                     with k1:
                         st.image(os.path.join(FOLDER_MEMOW, row['nazwa_pliku']), use_container_width=True)
