@@ -2,8 +2,8 @@ import os
 import sys
 import pandas as pd
 
-FOLDER = "memy"
-CSV = "cechy_memow.csv"
+FOLDER = "data/memy"
+CSV = "data/cechy_memow.csv"
 
 if not os.path.exists(CSV):
     print("Brak pliku CSV. Wymagane pełne skanowanie.")

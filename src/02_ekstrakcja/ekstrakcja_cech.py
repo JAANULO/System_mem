@@ -5,8 +5,8 @@ from PIL import Image, ImageStat
 from colorthief import ColorThief
 
 # Konfiguracja
-FOLDER_MEMOW = "memy"
-PLIK_CECH = "cechy_memow.csv"
+FOLDER_MEMOW = "data/memy"
+PLIK_CECH = "data/cechy_memow.csv"
 
 def pasek_postepu(aktualny, total, prefiks='Skanowanie'):
     if total == 0: return

@@ -8,8 +8,8 @@ import warnings
 warnings.filterwarnings("ignore", category=UserWarning)
 
 # Konfiguracja
-PLIK_CECH = "cechy_memow.csv"
-FOLDER_MEMOW = "memy"
+PLIK_CECH = "data/cechy_memow.csv"
+FOLDER_MEMOW = "data/memy"
 
 
 def pasek_postepu(aktualny, total, prefiks='Analiza OCR'):

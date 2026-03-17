@@ -7,8 +7,8 @@ import warnings
 # Wyłączenie zbędnych ostrzeżeń
 warnings.filterwarnings("ignore")
 
-FOLDER_MEMOW = "memy"
-PLIK_OBIEKTOW = "obiekty_memow.csv"
+FOLDER_MEMOW = "data/memy"
+PLIK_OBIEKTOW = "data/obiekty_memow.csv"
 
 
 def pasek_postepu(aktualny, total, prefiks='Detekcja AI'):

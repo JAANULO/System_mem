@@ -1,7 +1,7 @@
 import os
 import hashlib
 
-FOLDER_MEMOW = "memy"
+FOLDER_MEMOW = "data/memy"
 
 
 def bezpieczna_zmiana_nazw():

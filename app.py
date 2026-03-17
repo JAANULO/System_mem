@@ -67,15 +67,15 @@ if strona == "👆 Ocenianie (Tinder)":
     st.write(f"*(Głosy w buforze RAM oczekujące na zapis: {len(st.session_state.bufor_glosow)}/5)*")
 
     sciezka = os.path.join(FOLDER_MEMOW, st.session_state.aktualny_mem)
-    st.image(sciezka, use_container_width=True)
+    st.image(sciezka, width="stretch")
 
     kol_l, kol_p = st.columns(2)
     with kol_l:
-        if st.button("❌ Odrzuć", use_container_width=True):
+        if st.button("❌ Odrzuć", width="stretch"):
             glosuj(-1)
             st.rerun()
     with kol_p:
-        if st.button("❤️ Lubię", use_container_width=True):
+        if st.button("❤️ Lubię", width="stretch"):
             glosuj(1)
             st.rerun()
 
@@ -100,7 +100,7 @@ elif strona == "🤖 Korekta OCR":
                 for index, row in memy_ocr_limit.iterrows():
                     k1, k2 = st.columns([1, 2])
                     with k1:
-                        st.image(os.path.join(FOLDER_MEMOW, row['nazwa_pliku']), use_container_width=True)
+                        st.image(os.path.join(FOLDER_MEMOW, row['nazwa_pliku']), width="stretch")
                     with k2:
                         nowy_t = st.text_input("Tekst:", value=row['wykryty_tekst'], key=f"in_{index}")
                         if st.button("💾 Zapisz poprawkę", key=f"save_{index}"):
@@ -158,7 +158,7 @@ elif strona == "👁️ Jak widzi to AI":
             k_lewa, k_srodek, k_prawa = st.columns([1, 2, 1])
 
             with k_lewa:
-                if st.button("⬅️ Poprzedni", use_container_width=True):
+                if st.button("⬅️ Poprzedni", width="stretch"):
                     st.session_state.ai_index = max(0, st.session_state.ai_index - 1)
 
             with k_srodek:
@@ -168,7 +168,7 @@ elif strona == "👁️ Jak widzi to AI":
                     unsafe_allow_html=True)
 
             with k_prawa:
-                if st.button("Następny ➡️", use_container_width=True):
+                if st.button("Następny ➡️", width="stretch"):
                     st.session_state.ai_index = min(max_index, st.session_state.ai_index + 1)
 
             st.divider()
@@ -190,10 +190,10 @@ elif strona == "👁️ Jak widzi to AI":
                         # Rysowanie ramki
                         draw.rectangle([x1, y1, x2, y2], outline="#ff4b4b", width=4)
 
-                    st.image(img, caption=f"Model YOLOv8 - analiza pliku {wybrany_mem}", use_container_width=True)
-                    st.dataframe(dane_mema[['obiekt', 'pewnosc']], use_container_width=True)
+                    st.image(img, caption=f"Model YOLOv8 - analiza pliku {wybrany_mem}", width="stretch")
+                    st.dataframe(dane_mema[['obiekt', 'pewnosc']], width="stretch")
                 else:
-                    st.image(img, use_container_width=True)
+                    st.image(img, width="stretch")
                     st.info("Model sztucznej inteligencji nie wykrył tu żadnych konkretnych przedmiotów.")
             else:
                 st.error("Plik nie istnieje na dysku.")

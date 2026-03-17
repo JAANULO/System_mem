@@ -1,5 +1,5 @@
 @echo off
-cd /d "C:\Users\atona\Desktop\Projekty\System_memow"
+cd /d %~dp0
 
 python src\05_narzedzia\sprawdz_nowe.py
 if %ERRORLEVEL% EQU 1 (
